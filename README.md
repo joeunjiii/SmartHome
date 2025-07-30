@@ -1,4 +1,3 @@
-<img width="574" height="342" alt="그림02_smarthome" src="https://github.com/user-attachments/assets/62afcd08-8733-4748-93e7-9174f5c94f72" />
 # 🏠 스마트 홈 IoT 프로젝트
 
 ## 📁 프로젝트명: SmartHome_AIoT (Arduino 기반)
